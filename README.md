@@ -1,2 +1,2 @@
 # Docker-for-beginners
-[Course sourse](https://stepik.org/course/123300/info) 
+Конспектирование и решение [курса stepik](https://stepik.org/course/119770/syllabus).
